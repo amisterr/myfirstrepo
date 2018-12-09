@@ -17,7 +17,7 @@ form.addEventListener('submit',function(event) {
         result.innerText = "Answer: " + percent + "%";
         
         event.preventDefault();
-        //dodatkowa linia
+        //dodatkowa linia a teraz zrobimy konflikt
     }
     
     
